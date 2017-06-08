@@ -1,0 +1,49 @@
+    1  cd /etc/ssh
+    2  ls
+    3  vim sshd_config
+    4  apt install vim
+    5  vim sshd_config
+    6  sytemctl restart sshd
+    7  ls
+    8  cd ..
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd usr
+   13  ls
+   14  ls aux
+   15  ps aux
+   16  top
+   17  user
+   18  users
+   19  passwd -l dave
+   20  users
+   21  ps aux | grep dave
+   22  cd /root
+   23  sudo passwd -l dave
+   24  user
+   25  users
+   26  ps
+   27  ps aux | grep dave
+   28  kill 4470
+   29  ps aux | grep dave
+   30  kill 4575
+   31  ps aux | grep dave
+   32  kill 4591
+   33  ps aux | grep dave
+   34  cd /etc
+   35  ls
+   36  /var/log
+   37  cd ..
+   38  ls
+   39  cd var
+   40  ls
+   41  cd log
+   42  ls
+   43  cd ~
+   44  ls
+   45  ls -l
+   46  cd ~
+   47  ls
+   48  ls 
+   49  history>>history.log
